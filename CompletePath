@@ -1,0 +1,8 @@
+#!/bin/bash
+printf "`pwd`/`echo $1`\n"
+
+#echo "$PWD/$1"
+
+#A=`pwd`
+#B=$1
+#echo "$A/$B"
